@@ -1,0 +1,160 @@
+temp
+
+a.
+<a class="player" data-property="{videoURL:'https://www.youtube.com/watch?v=vqqt5p0q-eU',containment:'#home', showControls:false, autoPlay:true, loop:true, mute:true, startAt:0, opacity:1, quality:'default'}"></a>
+
+b.
+<div class="col-md-10 text-right menu-1">
+							<ul>
+								<li class="active"><a href="index.html">Home</a></li>
+								<li class="has-dropdown">
+									<a href="work.html">Works</a>
+									<ul class="dropdown">
+										<li><a href="work-grid.html">Works grid with text</a></li>
+										<li><a href="work-grid-without-text.html">Works grid w/o text</a></li>
+									</ul>
+								</li>
+								<li><a href="services.html">Services</a></li>
+								<li><a href="blog.html">Blog</a></li>
+								<li><a href="about.html">About</a></li>
+								<li><a href="shop.html">Shop</a></li>
+								<li><a href="contact.html">Contact</a></li>
+							</ul>
+						</div>
+
+c.
+
+<div class="row">
+					<div class="col-md-4 animate-box">
+						<article>
+							<h2>Building the Mention Sales Application on Unapp</h2>
+							<p class="admin"><span>May 12, 2018</span></p>
+							<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life</p>
+							<p class="author-wrap"><a href="#" class="author-img" style="background-image: url(images/person1.jpg);"></a> <a href="#" class="author">by Dave Miller</a></p>
+						</article>
+					</div>
+					<div class="col-md-4 animate-box">
+						<article>
+							<h2>Building the Mention Sales Application on Unapp</h2>
+							<p class="admin"><span>May 12, 2018</span></p>
+							<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life</p>
+							<p class="author-wrap"><a href="#" class="author-img" style="background-image: url(images/person2.jpg);"></a> <a href="#" class="author">by Dave Miller</a></p>
+						</article>
+					</div>
+					<div class="col-md-4 animate-box">
+						<article>
+							<h2>Building the Mention Sales Application on Unapp</h2>
+							<p class="admin"><span>May 12, 2018</span></p>
+							<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life</p>
+							<p class="author-wrap"><a href="#" class="author-img" style="background-image: url(images/person3.jpg);"></a> <a href="#" class="author">by Dave Miller</a></p>
+						</article>
+					</div>
+				</div>
+
+d. 
+<div id="colorlib-subscribe" class="colorlib-subscribe" style="background-image: url(images/cover_img_1.jpg);" data-stellar-background-ratio="0.5">
+			<div class="overlay"></div>
+			<div class="container">
+				<div class="row">
+					<div class="col-md-10 col-md-offset-1 text-center colorlib-heading animate-box">
+						<h2>Already trusted by over 10,000 users</h2>
+						<p>Subscribe to receive unapp tips from instructors right to your inbox.</p>
+					</div>
+				</div>
+				<div class="row animate-box">
+					<div class="col-md-6 col-md-offset-3">
+						<div class="row">
+							<div class="col-md-12">
+							<form class="form-inline qbstp-header-subscribe">
+								<div class="col-three-forth">
+									<div class="form-group">
+										<input type="text" class="form-control" id="email" placeholder="Enter your email">
+									</div>
+								</div>
+								<div class="col-one-third">
+									<div class="form-group">
+										<button type="submit" class="btn btn-primary">Subscribe Now</button>
+									</div>
+								</div>
+							</form>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+e.
+<div class="colorlib-pricing">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-8 col-md-offset-2 text-center colorlib-heading animate-box">
+						<h2>Pricing</h2>
+						<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name</p>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-3 text-center animate-box">
+						<div class="pricing">
+							<h2 class="pricing-heading">Starter</h2>
+							<div class="price"><sup class="currency">$</sup>9<small>per month</small></div>
+							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+							<p><a href="#" class="btn btn-primary">Select Plan</a></p>
+						</div>
+					</div>
+					<div class="col-md-3 text-center animate-box">
+						<div class="pricing">
+							<h2 class="pricing-heading">Basic</h2>
+							<div class="price"><sup class="currency">$</sup>27<small>per month</small></div>
+							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+							<p><a href="#" class="btn btn-primary">Select Plan</a></p>
+						</div>
+					</div>
+					<div class="col-md-3 text-center animate-box">
+						<div class="pricing">
+							<h2 class="pricing-heading">Pro</h2>
+							<div class="price"><sup class="currency">$</sup>74<small>per month</small></div>
+							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+							<p><a href="#" class="btn btn-primary">Select Plan</a></p>
+						</div>
+					</div>
+					<div class="col-md-3 text-center animate-box">
+						<div class="pricing">
+							<h2 class="pricing-heading">Unlimited</h2>
+							<div class="price"><sup class="currency">$</sup>140<small>per month</small></div>
+							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+							<p><a href="#" class="btn btn-primary">Select Plan</a></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+f.
+<div class="col-md-3 colorlib-widget">
+						<h4>Recent Blog</h4>
+						<div class="f-blog">
+							<a href="blog.html" class="blog-img" style="background-image: url(images/blog-1.jpg);">
+							</a>
+							<div class="desc">
+								<h2><a href="blog.html">Photoshoot Technique</a></h2>
+								<p class="admin"><span>30 March 2018</span></p>
+							</div>
+						</div>
+						<div class="f-blog">
+							<a href="blog.html" class="blog-img" style="background-image: url(images/blog-2.jpg);">
+							</a>
+							<div class="desc">
+								<h2><a href="blog.html">Camera Lens Shoot</a></h2>
+								<p class="admin"><span>30 March 2018</span></p>
+							</div>
+						</div>
+						<div class="f-blog">
+							<a href="blog.html" class="blog-img" style="background-image: url(images/blog-3.jpg);">
+							</a>
+							<div class="desc">
+								<h2><a href="blog.html">Imahe the biggest photography studio</a></h2>
+								<p class="admin"><span>30 March 2018</span></p>
+							</div>
+						</div>
+					</div>
